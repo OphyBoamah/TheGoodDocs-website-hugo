@@ -2,9 +2,8 @@
 title: Felicity Brand
 image: /uploads/flicstar.jpg
 description: Felicity is a technical writer and editor who is passionate about open source.
-follow: Find Felicity at [flicstar.com](https://flicstar.com) or on [Write the Docs
-  Slack](https://www.writethedocs.org/slack/)
-web: https://flicstar.com
+follow: null
+web: null
 email: felicitybrand@gmail.com
 social:
   github: flicstar
@@ -14,7 +13,7 @@ social:
   twitter: flicstar_
   instagram: ""
 type: author
-lastmod: 2022-03-24T21:10:57.668Z
+lastmod: 2022-03-26T03:50:24.370Z
 draft: true
 ---
 
